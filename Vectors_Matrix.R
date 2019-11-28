@@ -5,3 +5,4 @@ vector3 <- seq(1, 10)
 vector1 == vector2
 vector1 != vector2
 vector1 > vector2
+vector_suma <- vector1 + vector2 #Recycling Vectors :: Reusing the min vector
